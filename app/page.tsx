@@ -8,6 +8,7 @@ import FeatureSection7 from '@/components/FeatureSection7'
 import FeatureSection8 from '@/components/FeatureSection8'
 import FeatureSection9 from '@/components/FeatureSection9'
 import Hero from '@/components/Hero'
+import Reviews from '@/components/Reviews'
 import UserIcons from '@/components/UserIcons'
 
 
@@ -25,6 +26,7 @@ export default function Home() {
     <FeatureSection7 />
     <FeatureSection8 />
     <FeatureSection9 />
+    <Reviews />
    </div>
   )
 }
