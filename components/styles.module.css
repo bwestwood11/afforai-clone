@@ -1,0 +1,11 @@
+.button {
+    background: linear-gradient(135deg,#6004ff,#7f35ff 23.95%,#370097 60.11%,#8d4aff);
+}
+
+.yellow {
+   background: linear-gradient(269deg, rgb(255, 185, 1) 17.08%, rgb(255, 149, 1) 100%)
+}
+
+.transparent {
+    background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 50.04%, rgba(255, 255, 255, 0.5) 50.85%)
+}
